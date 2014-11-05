@@ -141,27 +141,27 @@
     <string name="ssl_ca_cert_noti_managed" msgid="4030263497686867141">"<xliff:g id="MANAGING_DOMAIN">%s</xliff:g>에서 모니터링"</string>
     <string name="me" msgid="6545696007631404292">"나"</string>
     <string name="power_dialog" product="tablet" msgid="8545351420865202853">"태블릿 옵션"</string>
-    <string name="power_dialog" product="default" msgid="1319919075463988638">"휴대전화 옵션"</string>
+    <string name="power_dialog" product="default" msgid="1319919075463988638">"휴대폰 옵션"</string>
     <string name="silent_mode" msgid="7167703389802618663">"무음 모드"</string>
     <string name="turn_on_radio" msgid="3912793092339962371">"무선 사용"</string>
     <string name="turn_off_radio" msgid="8198784949987062346">"무선 끄기"</string>
     <string name="screen_lock" msgid="799094655496098153">"화면 잠금"</string>
-    <string name="power_off" msgid="4266614107412865048">"종료"</string>
+    <string name="power_off" msgid="4266614107412865048">"휴대폰 종료"</string>
     <string name="silent_mode_silent" msgid="319298163018473078">"벨소리가 무음입니다."</string>
     <string name="silent_mode_vibrate" msgid="7072043388581551395">"벨소리가 진동입니다."</string>
     <string name="silent_mode_ring" msgid="8592241816194074353">"벨소리가 켜져 있습니다."</string>
-    <string name="shutdown_progress" msgid="2281079257329981203">"종료 중..."</string>
+    <string name="shutdown_progress" msgid="2281079257329981203">"휴대폰이 종료됩니다."</string>
     <string name="shutdown_confirm" product="tablet" msgid="3385745179555731470">"태블릿이 종료됩니다."</string>
-    <string name="shutdown_confirm" product="default" msgid="649792175242821353">"휴대전화가 종료됩니다."</string>
+    <string name="shutdown_confirm" product="default" msgid="649792175242821353">"휴대폰이 종료됩니다."</string>
     <string name="shutdown_confirm_question" msgid="2906544768881136183">"종료하시겠습니까?"</string>
     <string name="reboot_safemode_title" msgid="7054509914500140361">"안전 모드로 다시 부팅"</string>
     <string name="reboot_safemode_confirm" msgid="55293944502784668">"안전 모드로 다시 부팅하시겠습니까? 그러면 설치한 모든 제3자 애플리케이션을 사용할 수 없게 됩니다. 다시 부팅을 반복하면 애플리케이션이 복원됩니다."</string>
     <string name="recent_tasks_title" msgid="3691764623638127888">"최근 사용한 앱"</string>
     <string name="no_recent_tasks" msgid="8794906658732193473">"최근에 사용한 앱이 없습니다."</string>
     <string name="global_actions" product="tablet" msgid="408477140088053665">"태블릿 옵션"</string>
-    <string name="global_actions" product="default" msgid="2406416831541615258">"휴대전화 옵션"</string>
+    <string name="global_actions" product="default" msgid="2406416831541615258">"휴대폰 옵션"</string>
     <string name="global_action_lock" msgid="2844945191792119712">"화면 잠금"</string>
-    <string name="global_action_power_off" msgid="4471879440839879722">"종료"</string>
+    <string name="global_action_power_off" msgid="4471879440839879722">"휴대폰 종료"</string>
     <string name="global_action_bug_report" msgid="7934010578922304799">"버그 신고"</string>
     <string name="bugreport_title" msgid="2667494803742548533">"버그 신고"</string>
     <string name="bugreport_message" msgid="398447048750350456">"현재 기기 상태에 대한 정보를 수집하여 이메일 메시지로 전송합니다. 버그 신고를 시작하여 전송할 준비가 되려면 약간 시간이 걸립니다."</string>
@@ -1664,4 +1664,17 @@
   </plurals>
     <string name="restr_pin_try_later" msgid="973144472490532377">"나중에 다시 시도"</string>
     <string name="immersive_mode_confirmation" msgid="7227416894979047467">"전체화면을 종료하려면 위에서 아래로 스와이프하세요."</string>
+    <string name="global_action_screenshot">스크린샷</string>
+    <string name="global_action_reboot">다시시작</string>
+    <string name="reboot_system" product="tablet">태블릿 다시시작</string>
+    <string name="reboot_system" product="default">휴대폰 다시시작</string>
+    <string name="reboot_reboot">다시시작</string>
+    <string name="reboot_recovery">복구모드</string>
+    <string name="reboot_bootloader">다운로드</string>
+    <string name="reboot_bootmenu">부트메뉴</string>
+    <string name="reboot_fastboot">빠른시작</string>
+    <string name="reboot_download">다운로드</string>
+    <string name="reboot_progress">휴대폰이 다시 시작됩니다.</string>
+    <string name="reboot_confirm" product="tablet">태블릿이 다시 시작됩니다.</string>
+    <string name="reboot_confirm" product="default">휴대폰이 다시 시작됩니다.</string>
 </resources>
