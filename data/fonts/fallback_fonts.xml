@@ -31,6 +31,12 @@
 <familyset>
     <family>
         <fileset>
+            <file>DroidSansKorean.ttf</file>
+            <file>DroidSansKorean-Bold.ttf</file>
+        </fileset>
+    </family>
+    <family>
+        <fileset>
             <file variant="elegant">DroidNaskh-Regular.ttf</file>
         </fileset>
     </family>
