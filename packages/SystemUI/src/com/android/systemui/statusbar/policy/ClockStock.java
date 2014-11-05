@@ -48,9 +48,9 @@ public class ClockStock extends TextView implements DemoMode {
     private SimpleDateFormat mClockFormat;
     private Locale mLocale;
 
-    private static final int AM_PM_STYLE_NORMAL  = 0;
+    private static final int AM_PM_STYLE_GONE    = 0;
     private static final int AM_PM_STYLE_SMALL   = 1;
-    private static final int AM_PM_STYLE_GONE    = 2;
+    private static final int AM_PM_STYLE_NORMAL  = 2;
 
     private static final int AM_PM_STYLE = AM_PM_STYLE_GONE;
 

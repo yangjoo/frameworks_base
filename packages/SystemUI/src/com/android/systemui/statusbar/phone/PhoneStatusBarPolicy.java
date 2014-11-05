@@ -42,9 +42,9 @@ public class PhoneStatusBarPolicy {
     // message codes for the handler
     private static final int EVENT_BATTERY_CLOSE = 4;
 
-    private static final int AM_PM_STYLE_NORMAL  = 0;
+    private static final int AM_PM_STYLE_GONE    = 0;
     private static final int AM_PM_STYLE_SMALL   = 1;
-    private static final int AM_PM_STYLE_GONE    = 2;
+    private static final int AM_PM_STYLE_NORMAL  = 2;
 
     private static final int AM_PM_STYLE = AM_PM_STYLE_GONE;
 
